@@ -62,6 +62,4 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=black">
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=NODE.JS&logoColor=black">
 <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=VUE.JS&logoColor=black">
-
-
 </div>
