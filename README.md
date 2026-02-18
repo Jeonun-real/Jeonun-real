@@ -23,9 +23,9 @@
 
 | Type | title | subject | tech |
 | :--- | :--- | :--- | :--- |
-| Webservice | AI Capstone Design | AI-based personality style recommendation web service |![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffdd54) |
+| Webservice | AI Capstone Design | AI-based Aptitude and Personality Test Question Recommendation Web Service |![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffdd54) |
 | Webservice | Software engineering | Plant Recommendation Web Service | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-| Webservice | The Challenge of a Ajou Good SW Convergence Person | Freshman Adaptation Help Website |![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)|
+| Webservice | The Challenge of a Ajou Good SW Convergence Person | Freshman Adaptation Help Web Service |![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)|
 | Research | Korea Information Processing Society Review | Object Detection for Fire Disaster Situation Recognition | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/pytorch-%EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffdd54) |
 | Research | Individual Research | Optimal solution of Capacified Vehicle Routing Problem based on Reinforcement Learning | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/pytorch-%EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffdd54) |
 
