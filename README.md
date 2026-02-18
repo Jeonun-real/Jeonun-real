@@ -7,7 +7,6 @@
 </div>
 
 <br>
-
 <div align = "center"> <h2>Research, development Interests</h2> 
 <h6>
 * Bigdata Analysis
