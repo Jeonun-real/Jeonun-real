@@ -21,11 +21,14 @@
 <br>
 <div align = "center"> <h2>🏆ACHIEVEMENTS</h2> </div>
 
-| Title | Subject | note | tech |
+| Type | title | subject | tech |
 | :--- | :--- | :--- | :--- |
-| AI융합캡스톤디자인 | AI기반 인적성 문체 추천 웹서비스 | 우수상 |![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffdd54) |
-| 아주 휼룡한 SW융합인의 도전 | 학과 신입생을 위한 웹서비스 | 장려상 |![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)|
-| 22년 한국정보처리학회지 | 화재 재난 상황 인식을 위한 객체 검출 | accept | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/pytorch-%EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffdd54) |
+| Webservice | AI Capstone Design | AI-based personality style recommendation web service |![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffdd54) |
+| Webservice | Software engineering | Plant Recommendation Web Service | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+| Webservice | The Challenge of a Ajou Good SW Convergence Person | Freshman Adaptation Help Website |![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)|
+| Research | Korea Information Processing Society Review | Object Detection for Fire Disaster Situation Recognition | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/pytorch-%EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffdd54) |
+| Research | Individual Research | Optimal solution of Capacified Vehicle Routing Problem based on Reinforcement Learning | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/pytorch-%EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffdd54) |
+
 
 <br>
 <div align = "center"> <h2> 👋 WhoAmI   </h2> </div>
@@ -60,4 +63,16 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=black">
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=NODE.JS&logoColor=black">
 <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=VUE.JS&logoColor=black">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/JEUS-F15A22?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/WebtoB-005BAC?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/AIX-052FAD?style=for-the-badge&logoColor=white">
 </div>
