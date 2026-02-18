@@ -19,7 +19,6 @@
 </div>
 
 <br>
-
 <div align = "center"> <h2>🏆ACHIEVEMENTS</h2> </div>
 
 | Title | Subject | note | tech |
