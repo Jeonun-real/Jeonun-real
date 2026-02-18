@@ -26,7 +26,7 @@
 | Title | Subject | note | tech |
 | :--- | :--- | :--- | :--- |
 | AI융합캡스톤디자인 | AI기반 인적성 문체 추천 웹서비스 | 우수상 |![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![django](https://img.shields.io/badge/django-%233A95E3?style=for-the-badge&logo=django&logoColor=ffdd54) |
-| 아주 휼룡한 SW융합인의 도전 | 심리학과 웹서비스 | 장려상 |![typescript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=white) ![nodejs](https://img.shields.io/badge/node.js-%23Clojure?style=for-the-badge&logo=node.js&logoColor=white)|
+| 아주 휼룡한 SW융합인의 도전 | 학과 신입생을 위한 웹서비스 | 장려상 |![typescript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=white) ![nodejs](https://img.shields.io/badge/node.js-%23Clojure?style=for-the-badge&logo=node.js&logoColor=white)|
 | 22년 한국정보처리학회지 | 화재 재난 상황 인식을 위한 객체 검출 | accept | ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![pytorch](https://img.shields.io/badge/pytorch-%233A95E3?style=for-the-badge&logo=pytorch&logoColor=ffdd54) |
 
 <br>
