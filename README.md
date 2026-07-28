@@ -14,7 +14,7 @@
 * Reinforce learning
 * Object Detection
 * system engineering
-* software engineering
+* cloud engineering
 * cyber Security
 </div>
 
