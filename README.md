@@ -33,7 +33,7 @@
 <br>
 <div align = "center"> <h2> 👋 WhoAmI   </h2> </div>
 
-- **Career** : "Airforce Weather Group" Weather Software Operation Manager
+- **Career** : "Air Force Headquarters" Weather Software Operation Manager
 - **Contribution** 
    - Maintenance of AI based the Short-Term Forcast and Alert System
    - Meteorological AI and Big Data Research
