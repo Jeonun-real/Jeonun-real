@@ -1,6 +1,6 @@
 <div align="center">
   
-<h2>System/Software engineer</h2>
+<h2>System/DecSecOps engineer</h2>
 <a href="mailto:tjwjddns1302@ajou.ac.kr">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 20px;"/>
 </a>
