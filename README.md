@@ -45,13 +45,13 @@
 
 - **Previous Role**: **Air Force Headquarters** Weather Software Operation Manager (Jul 2023 – May 2026)
 - **Contribution** 
-   - Maintenance of AI based the Short-Term Forcast and Alert System
-   - Meteorological AI and Big Data Research
+   - Operated and maintained an AI-based short-term weather forecasting and alert system
+   - Deployed and maintained meteorological AI models using Docker and Kubernetes
    - develop and maintenance of Weather Control Web Service for AIr Traffic Controller
    - develop and maintenance of Web Service for Weather forecasts
-   - Maintenance of big data and AI Structure
-   - Manintenace of Infra Structure
-   - Webservice and OS vulnerability Assessment/InSpection/Mitigation/Remediation
+   - Managed a Hadoop-based platform handling of meteorological data
+   - Maintained servers and storage, investigated outages, and restored services
+   - Assessed and remediated security vulnerabilities in web services and operating systems
 
 <br>
 <div align="center"><h2>🎓 Education</h2></div>
