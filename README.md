@@ -113,6 +113,7 @@
   <img src="https://img.shields.io/badge/Storm-225593?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Storm">
   <img src="https://img.shields.io/badge/Kafka-1679A7?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=for-the-badge" alt="AWS Secrets Manager">
 </div>
 
 <div align="center">
