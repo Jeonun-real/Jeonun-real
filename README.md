@@ -132,6 +132,11 @@
 </div>
 
 <div align="center">
+  <h3>Tools &amp; Collaboration</h3>
+  <img src="https://img.shields.io/badge/CodeRabbit-FF570A?style=for-the-badge" alt="CodeRabbit">
+</div>
+
+<div align="center">
   <h3>Repair Thread · Team Project</h3>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/React_Three_Fiber-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Three Fiber">
