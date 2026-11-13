@@ -69,6 +69,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&amp;logo=springsecurity&amp;logoColor=white" alt="Spring Security">
   <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring Cloud">
   <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring AI">
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" alt="JPA">
